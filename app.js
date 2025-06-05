@@ -12,7 +12,7 @@ const App = () => {
                 </div>
             </header>
 
-            <!-- About Me Section -->
+            {/* About Me Section */}
             <section id="about">
                 <h2>About Me</h2>
                 <p>Frontend Developer | Student | Tech Enthusiast</p>
@@ -21,7 +21,7 @@ const App = () => {
                 <p>When I'm not coding, you'll find me exploring design trends, debugging layouts, or learning new tools to stay ahead in the frontend world.</p>
             </section>
 
-            <!-- Skills Section -->
+            {/* Skills Section */}
             <section id="skills">
                 <h2>Skills</h2>
                 <h3>Frontend</h3>
@@ -44,7 +44,7 @@ const App = () => {
                 </ul>
             </section>
 
-            <!-- Projects Section -->
+            {/* Projects Section */}
             <section id="projects">
                 <h2>Projects</h2>
                 <div className="project">
@@ -67,7 +67,7 @@ const App = () => {
                 </div>
             </section>
 
-            <!-- Education Section -->
+            {/* Education Section */}
             <section id="education">
                 <h2>Education</h2>
                 <p>B.Tech in Computer Science & IT</p>
@@ -75,7 +75,7 @@ const App = () => {
                 <p>(Expected Graduation: 2026)</p>
             </section>
 
-            <!-- Contact Section -->
+            {/* Contact Section */}
             <section id="contact">
                 <h2>Contact</h2>
                 <p>Let’s Build Something Together!</p>
